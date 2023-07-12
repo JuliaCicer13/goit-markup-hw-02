@@ -1,0 +1,323 @@
+body {
+  font-family: "Roboto" sans-serif;
+  color: #2e2f42;
+}
+
+/* HEADER */
+.letters-web {
+  color: #4d5ae5;
+  font-family: "Raleway";
+  font-weight: 800;
+  font-size: 18px;
+  height: 1.1;
+  text-decoration: none;
+}
+.text-studio-header {
+  color: #2e2f42;
+  font-family: "Raleway";
+  font-weight: 800;
+  font-size: 18px;
+  height: 1.1;
+  text-decoration: none;
+}
+
+/* LINKS-HEADER */
+.list-header {
+  list-style: none;
+}
+.text-studio {
+  font-family: "Roboto";
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 16px;
+  height: 1.5;
+  text-decoration: none;
+}
+
+.text-portfolio {
+  font-family: "Roboto";
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 16px;
+  height: 1.5;
+  text-decoration: none;
+}
+
+.text-contacts {
+  font-family: "Roboto";
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 16px;
+  height: 1.5;
+  text-decoration: none;
+}
+
+/* ADRESS */
+.list-adress {
+  list-style: none;
+}
+.text-mail {
+  font-family: "Roboto";
+  color: #434455;
+  font-weight: 400;
+  font-size: 16px;
+  height: 1.5;
+  text-decoration: none;
+  font-style: normal;
+}
+
+.text-telephone {
+  color: #434455;
+  font-family: "Roboto";
+  color: #434455;
+  font-weight: 400;
+  font-size: 16px;
+  height: 1.5;
+  text-decoration: none;
+  font-style: normal;
+  list-style: none;
+}
+
+/* MAIN */
+/* Section-page-one */
+.section-page-one {
+  background-color: #2e2f42;
+}
+.section-title {
+  font-family: "Roboto";
+  color: white;
+  font-weight: 700;
+  font-size: 56px;
+  height: 1;
+}
+
+/* button */
+.button-title {
+  font-family: "Roboto";
+  background-color: #4d5ae5;
+  color: white;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  height: 1.5;
+}
+/* SECTION PAGE TWO */
+.business-list {
+  list-style: none;
+}
+.title-strategy {
+  color: #2e2f42;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 20px;
+  height: 1.2;
+}
+.text {
+  color: #434455;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 16px;
+  height: 1.5;
+}
+.title-punctuality {
+  color: #2e2f42;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 20px;
+  height: 1.2;
+}
+.text {
+  color: #434455;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 16px;
+  height: 1.5;
+}
+.title-diligence {
+  color: #2e2f42;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 20px;
+  height: 1.2;
+}
+
+.text {
+  color: #434455;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 16px;
+  height: 1.5;
+}
+.title-technologies {
+  color: #2e2f42;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 20px;
+  height: 1.2;
+}
+.text {
+  color: #434455;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 16px;
+  height: 1.5;
+}
+/* SECTION PAGE THREE */
+.section-title-three {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 36px;
+  height: 1.1;
+}
+
+.imegines-list-one {
+  list-style: none;
+}
+/* SECTIUON-PAGE-FOURE */
+/* section-page-foure */
+/* OurTeam */
+.team-list {
+  list-style: none;
+}
+.section-title-foure {
+  color: black;
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 36px;
+  height: 1.1;
+}
+.section-page-foure {
+  background-color: #f4f4fd;
+}
+.img-team-card-one {
+  background-color: white;
+}
+.img-team-card-two {
+  background-color: white;
+}
+.img-team-card-three {
+  background-color: white;
+}
+.img-team-card-four {
+  background-color: white;
+}
+
+.team-list .title {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 20px;
+  height: 1.2;
+  color: black;
+}
+.team-list .text {
+  color: black;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 16px;
+  height: 1.5;
+}
+/* page-footer */
+.page-footer {
+  background-color: #2e2f42;
+}
+.footer-text {
+  color: white;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 16px;
+  height: 1.5;
+}
+.letters-web {
+  color: #4d5ae5;
+  font-family: "Raleway";
+  font-weight: 800;
+  font-size: 18px;
+  height: 1.1;
+  text-decoration: none;
+}
+.text-studio-footer {
+  color: white;
+  font-family: "Raleway";
+  font-weight: 800;
+  font-size: 18px;
+  height: 1.1;
+  text-decoration: none;
+}
+
+/* PORTFOLIO */
+/* HEADER */
+body {
+  font-family: "Roboto" sans-serif;
+  color: #2e2f42;
+}
+.item-links-header {
+  list-style: none;
+}
+/* buttons */
+.button-list {
+  list-style: none;
+}
+
+.button-title-all {
+  background-color: #e7e9fc;
+  color: #404bbf;
+  cursor: pointer;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 16px;
+  height: 1.5;
+}
+.button-title-website {
+  background-color: #e7e9fc;
+  color: #4d5ae5;
+  cursor: pointer;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 16px;
+  height: 1.5;
+}
+.button-title-app {
+  background-color: #e7e9fc;
+  color: #4d5ae5;
+  cursor: pointer;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 16px;
+  height: 1.5;
+}
+.button-title-design {
+  background-color: #e7e9fc;
+  color: #404bbf;
+  cursor: pointer;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 16px;
+  height: 1.5;
+}
+.button-title-marketing {
+  background-color: #e7e9fc;
+  color: #404bbf;
+  cursor: pointer;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 16px;
+  height: 1.5;
+}
+/* imegines(portfolio) */
+.imagines-list-two {
+  list-style: none;
+}
+.title-portfolio {
+  color: #2e2f42;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 20px;
+  height: 1.2;
+}
+.text-portfolio {
+  color: #434455;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 16px;
+  height: 1.5;
+}
