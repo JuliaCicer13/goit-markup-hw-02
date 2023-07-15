@@ -321,7 +321,7 @@ body {
 
 .button-title-all {
   background-color: var(--color-cloud);
-  color: var(--color-ocean);
+  color: var(--color-iris);
   cursor: pointer;
   font-family: var(--primary-font);
   font-weight: 500;
@@ -331,17 +331,14 @@ body {
 }
 .button-title-all :hover {
   background-color: var(--color-ocean);
-
   color: var(--color-white);
 }
 .button-title-all :focus {
   background-color: var(--color-ocean);
-
   color: var(--color-white);
 }
 .button-title-website {
   background-color: var(--color-cornflower);
-
   color: var(--color-iris);
   cursor: pointer;
   font-family: var(--primary-font);
@@ -379,7 +376,7 @@ body {
 
 .button-title-design {
   background-color: var(--color-cornflower);
-  color: var(--color-ocean);
+  color: var(--color-iris);
   cursor: pointer;
   font-family: var(--primary-font);
   font-weight: 500;
@@ -398,7 +395,7 @@ body {
 
 .button-title-marketing {
   background-color: var(--color-cornflower);
-  color: var(--color-ocean);
+  color: var(--color-iris);
   cursor: pointer;
   font-family: var(--primary-font);
   font-weight: 500;
