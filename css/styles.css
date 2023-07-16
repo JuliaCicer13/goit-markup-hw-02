@@ -40,15 +40,7 @@ body {
 .list {
   list-style: none;
 }
-.team-list {
-  font-family: var(--primary-font);
-  color: var(--color-navy-blue);
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  text-decoration: underline;
-  letter-spacing: 0.02em;
-}
+
 .text-studio {
   font-family: var(--primary-font);
   color: var(--color-navy-blue);
