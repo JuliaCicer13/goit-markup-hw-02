@@ -236,7 +236,7 @@ body {
   list-style: none;
 }
 
-.button-title-all {
+.button-filter {
   background-color: var(--color-cloud);
   color: var(--color-iris);
   cursor: pointer;
@@ -246,108 +246,19 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
-.button-title-all:hover {
+.button-filter:hover {
   color: var(--color-white);
 }
-.button-title-all:focus {
+.button-filter:focus {
   color: var(--color-white);
 }
-.button-title-all:hover {
+.button-filter:hover {
   background-color: var(--color-ocean);
 }
-.button-title-all:focus {
+.button-filter:focus {
   background-color: var(--color-ocean);
-}
-.button-title-website {
-  background-color: var(--color-cornflower);
-  color: var(--color-iris);
-  cursor: pointer;
-  font-family: var(--primary-font);
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-}
-.button-title-website:hover {
-  background-color: var(--color-ocean);
-}
-.button-title-website:focus {
-  background-color: var(--color-ocean);
-}
-.button-title-website:hover {
-  color: var(--color-white);
-}
-.button-title-website:hover {
-  color: var(--color-white);
-}
-.button-title-app {
-  background-color: var(--color-cornflower);
-  color: var(--color-iris);
-  cursor: pointer;
-  font-family: var(--primary-font);
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-}
-.button-title-app:hover {
-  background-color: var(--color-ocean);
-}
-.button-title-app:focus {
-  background-color: var(--color-ocean);
-}
-.button-title-app:focus {
-  color: var(--color-white);
-}
-.button-title-app:hover {
-  color: var(--color-white);
 }
 
-.button-title-design {
-  background-color: var(--color-cornflower);
-  color: var(--color-iris);
-  cursor: pointer;
-  font-family: var(--primary-font);
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-}
-.button-title-design:hover {
-  background-color: var(--color-ocean);
-}
-.button-title-design:focus {
-  background-color: var(--color-ocean);
-}
-.button-title-design:focus {
-  color: var(--color-white);
-}
-.button-title-design:hover {
-  color: var(--color-white);
-}
-
-.button-title-marketing {
-  background-color: var(--color-cornflower);
-  color: var(--color-iris);
-  cursor: pointer;
-  font-family: var(--primary-font);
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-}
-.button-title-marketing:hover {
-  background-color: var(--color-ocean);
-}
-.button-title-marketing:focus {
-  background-color: var(--color-ocean);
-}
-.button-title-marketing:focus {
-  color: var(--color-white);
-}
-.button-title-marketing:hover {
-  color: var(--color-white);
-}
 /* imegines(portfolio) */
 .imagines-list-two {
   list-style: none;
