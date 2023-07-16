@@ -329,13 +329,17 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
-.button-title-all :hover {
-  background-color: var(--color-ocean);
+.text-button-title-all :hover {
   color: var(--color-white);
+}
+.text-button-title-all :focus {
+  color: var(--color-white);
+}
+.text-button-title-all :hover {
+  background-color: var(--color-ocean);
 }
 .button-title-all :focus {
   background-color: var(--color-ocean);
-  color: var(--color-white);
 }
 .button-title-website {
   background-color: var(--color-cornflower);
