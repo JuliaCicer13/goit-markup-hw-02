@@ -40,8 +40,7 @@ body {
 .list {
   list-style: none;
 }
-
-.text-studio {
+.nav-link {
   font-family: var(--primary-font);
   color: var(--color-navy-blue);
   font-weight: 500;
@@ -50,6 +49,7 @@ body {
   text-decoration: underline;
   letter-spacing: 0.02em;
 }
+
 .link {
   text-decoration: none;
 }
@@ -60,33 +60,11 @@ body {
   color: var(--color-ocean);
 }
 
-.text-portfolio {
-  font-family: var(--primary-font);
-  color: var(--color-navy-blue);
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  text-decoration: underline;
-  letter-spacing: 0.02em;
-}
-
-.text-contacts {
-  font-family: var(--primary-font);
-  color: var(--color-navy-blue);
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  text-decoration: underline;
-  letter-spacing: 0.02em;
-}
-
 /* ADRESS */
 .page-adress {
   font-style: normal;
 }
-.list {
-  list-style: none;
-}
+
 .text-mail {
   font-family: var(--primary-font);
   color: var(--color-slate);
@@ -97,9 +75,7 @@ body {
   text-decoration: none;
   font-style: normal;
 }
-.link :hover {
-  color: var(--color-ocean);
-}
+
 .text-telephone {
   color: var(--color-slate);
   font-family: var(--preimary-font);
@@ -109,9 +85,7 @@ body {
   text-decoration: none;
   font-style: normal;
 }
-.link :hover {
-  color: var(--color-ocean);
-}
+
 /* MAIN */
 /* Section-page-one */
 .section-page-one {
@@ -147,6 +121,7 @@ body {
 }
 
 /* SECTION PAGE TWO */
+/* DESIGN TITLE-TEXT AND DESIGN TITLE-SECTION FOR ALL  */
 
 .title {
   color: var(--color-navy-blue);
@@ -262,20 +237,4 @@ body {
 /* imegines(portfolio) */
 .imagines-list-two {
   list-style: none;
-}
-.title-portfolio {
-  color: var(--color-navy-blue);
-  font-family: var(--primary-font);
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-.text-portfolio {
-  color: var(--color-slate);
-  font-family: var(--primary-font);
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
 }
