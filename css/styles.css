@@ -197,16 +197,16 @@ body {
 .section-page-foure {
   background-color: var(--color-cloud);
 }
-.img-team-card-one {
+.team-card {
   background-color: var(--color-white);
 }
-.img-team-card-two {
+.team-card-two {
   background-color: var(--color-white);
 }
-.img-team-card-three {
+.team-card-three {
   background-color: var(--color-white);
 }
-.img-team-card-four {
+.team-card-four {
   background-color: var(--color-white);
 }
 
