@@ -164,7 +164,7 @@ body {
 .list {
   list-style: none;
 }
-.title-strategy {
+.title {
   color: var(--color-navy-blue);
   font-family: var(--primary-font);
   font-weight: 500;
@@ -178,58 +178,9 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-.title-punctuality {
-  color: var(--color-navy-blue);
-  font-family: var(--primary-font);
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
   letter-spacing: 0.02em;
 }
 
-.text {
-  color: var(--color-slate);
-  font-family: var(--primary-font);
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-.title-diligence {
-  color: var(--color-navy-blue);
-  font-family: var(--primary-font);
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-
-.text {
-  color: var(--color-slate);
-  font-family: var(--primary-font);
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-.title-technologies {
-  color: var(--color-navy-blue);
-  font-family: var(--primary-font);
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-.text {
-  color: var(--color-slate);
-  font-family: var(--primary-font);
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
 /* SECTION PAGE THREE */
 .section-title-three {
   color: var(--color-navy-blue);
@@ -329,13 +280,13 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
-.text-button-title-all :hover {
+.button-title-all :hover {
   color: var(--color-white);
 }
-.text-button-title-all :focus {
+.button-title-all :focus {
   color: var(--color-white);
 }
-.text-button-title-all :hover {
+.button-title-all :hover {
   background-color: var(--color-ocean);
 }
 .button-title-all :focus {
