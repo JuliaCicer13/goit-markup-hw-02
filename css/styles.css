@@ -62,23 +62,13 @@ body {
   font-style: normal;
 }
 
-.text-mail {
+.text-adress {
   font-family: var(--primary-font);
   color: var(--color-slate);
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-decoration: none;
-  font-style: normal;
-}
-
-.text-telephone {
-  color: var(--color-slate);
-  font-family: var(--preimary-font);
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
   text-decoration: none;
   font-style: normal;
 }
