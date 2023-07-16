@@ -41,6 +41,7 @@ body {
   list-style: none;
 }
 .nav-link {
+  font-family: var(--logo-font);
   color: var(--color-navy-blue);
   font-weight: 500;
   font-size: 16px;
@@ -173,13 +174,13 @@ body {
 .team-card {
   background-color: var(--color-white);
 }
-.team-card-two {
+.team-card {
   background-color: var(--color-white);
 }
-.team-card-three {
+.team-card {
   background-color: var(--color-white);
 }
-.team-card-four {
+.team-card {
   background-color: var(--color-white);
 }
 
