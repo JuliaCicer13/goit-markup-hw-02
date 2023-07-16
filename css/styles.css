@@ -27,7 +27,6 @@ body {
   font-family: var(--logo-font);
   font-weight: 800;
   font-size: 18px;
-  text-decoration: none;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -41,7 +40,6 @@ body {
   list-style: none;
 }
 .nav-link {
-  font-family: var(--logo-font);
   color: var(--color-navy-blue);
   font-weight: 500;
   font-size: 16px;
