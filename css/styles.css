@@ -39,7 +39,7 @@ body {
 .list {
   list-style: none;
 }
-.navlink {
+.nav-link {
   color: var(--color-navy-blue);
   font-weight: 500;
   font-size: 16px;
