@@ -41,12 +41,10 @@ body {
   list-style: none;
 }
 .nav-link {
-  font-family: var(--primary-font);
   color: var(--color-navy-blue);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  text-decoration: underline;
   letter-spacing: 0.02em;
 }
 
@@ -203,9 +201,6 @@ body {
 /* PORTFOLIO */
 /* HEADER */
 
-.link {
-  list-style: none;
-}
 /* buttons */
 .button-list {
   list-style: none;
