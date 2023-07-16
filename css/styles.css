@@ -69,13 +69,6 @@ body {
   text-decoration: underline;
   letter-spacing: 0.02em;
 }
-.link:hover {
-  color: var(--color-ocean);
-}
-
-.link:focus {
-  color: var(--color-ocean);
-}
 
 .text-contacts {
   font-family: var(--primary-font);
@@ -85,13 +78,6 @@ body {
   line-height: 1.5;
   text-decoration: underline;
   letter-spacing: 0.02em;
-}
-.link :hover {
-  color: var(--color-ocean);
-}
-
-.link :focus {
-  color: var(--color-ocean);
 }
 
 /* ADRESS */
@@ -161,9 +147,7 @@ body {
 }
 
 /* SECTION PAGE TWO */
-.list {
-  list-style: none;
-}
+
 .title {
   color: var(--color-navy-blue);
   font-family: var(--primary-font);
@@ -199,9 +183,7 @@ body {
 /* SECTIUON-PAGE-FOURE */
 /* section-page-foure */
 /* OurTeam */
-.team-list {
-  list-style: none;
-}
+
 .section-title-foure {
   color: var(--color-navy-blue);
   font-family: var(--primary-font);
@@ -264,16 +246,16 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
-.button-title-all :hover {
+.button-title-all:hover {
   color: var(--color-white);
 }
-.button-title-all :focus {
+.button-title-all:focus {
   color: var(--color-white);
 }
-.button-title-all :hover {
+.button-title-all:hover {
   background-color: var(--color-ocean);
 }
-.button-title-all :focus {
+.button-title-all:focus {
   background-color: var(--color-ocean);
 }
 .button-title-website {
@@ -286,12 +268,16 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
-.button-title-website :hover {
+.button-title-website:hover {
   background-color: var(--color-ocean);
+}
+.button-title-website:focus {
+  background-color: var(--color-ocean);
+}
+.button-title-website:hover {
   color: var(--color-white);
 }
-.button-title-website :focus {
-  background-color: var(--color-ocean);
+.button-title-website:hover {
   color: var(--color-white);
 }
 .button-title-app {
@@ -304,12 +290,16 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
-.button-title-app :hover {
+.button-title-app:hover {
   background-color: var(--color-ocean);
+}
+.button-title-app:focus {
+  background-color: var(--color-ocean);
+}
+.button-title-app:focus {
   color: var(--color-white);
 }
-.button-title-app :focus {
-  background-color: var(--color-ocean);
+.button-title-app:hover {
   color: var(--color-white);
 }
 
@@ -323,12 +313,16 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
-.button-title-design :hover {
+.button-title-design:hover {
   background-color: var(--color-ocean);
+}
+.button-title-design:focus {
+  background-color: var(--color-ocean);
+}
+.button-title-design:focus {
   color: var(--color-white);
 }
-.button-title-design :focus {
-  background-color: var(--color-ocean);
+.button-title-design:hover {
   color: var(--color-white);
 }
 
@@ -342,12 +336,16 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
-.button-title-marketing :hover {
+.button-title-marketing:hover {
   background-color: var(--color-ocean);
+}
+.button-title-marketing:focus {
+  background-color: var(--color-ocean);
+}
+.button-title-marketing:focus {
   color: var(--color-white);
 }
-.button-title-marketing :focus {
-  background-color: var(--color-ocean);
+.button-title-marketing:hover {
   color: var(--color-white);
 }
 /* imegines(portfolio) */
