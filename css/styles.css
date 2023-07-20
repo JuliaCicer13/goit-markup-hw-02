@@ -23,6 +23,7 @@ body {
 }
 
 /* HEADER */
+
 .logo-type-web {
   font-family: var(--logo-font);
   font-weight: 800;
@@ -32,10 +33,12 @@ body {
   text-transform: uppercase;
   color: var(--color-iris);
 }
+
 .span-studio {
   color: var(--color-navy-blue);
 }
 /* LINKS-HEADER */
+
 .list {
   list-style: none;
 }
@@ -73,15 +76,16 @@ body {
 
 /* MAIN */
 /* Section-page-one */
+
 .section-page-one {
   background-color: var(--color-navy-blue);
 }
+
 .section-title {
   font-family: var(--primary-font);
   color: var(--color-white);
   font-size: 56px;
   line-height: 1.07;
-  text-align: center;
   letter-spacing: 0.02em;
   text-align: center;
 }
@@ -97,6 +101,7 @@ body {
   letter-spacing: 0.04em;
   cursor: pointer;
 }
+
 .button-title:hover {
   background-color: var(--color-ocean);
 }
@@ -124,6 +129,7 @@ body {
 }
 
 /* SECTION PAGE THREE */
+
 .section-title-three {
   color: var(--color-navy-blue);
   font-family: var(--primary-font);
@@ -137,6 +143,7 @@ body {
 .imegines-list-one {
   list-style: none;
 }
+
 /* SECTIUON-PAGE-FOURE */
 /* section-page-foure */
 /* OurTeam */
@@ -156,17 +163,9 @@ body {
 .team-card {
   background-color: var(--color-white);
 }
-.team-card {
-  background-color: var(--color-white);
-}
-.team-card {
-  background-color: var(--color-white);
-}
-.team-card {
-  background-color: var(--color-white);
-}
 
 /* page-footer */
+
 .page-footer {
   background-color: var(--color-navy-blue);
 }
